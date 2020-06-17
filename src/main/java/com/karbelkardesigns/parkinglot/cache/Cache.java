@@ -1,7 +1,5 @@
 package com.karbelkardesigns.parkinglot.cache;
 
-import com.karbelkardesigns.parkinglot.bean.Vehicle;
-
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum Cache {
